@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=NikoHoc&icon=5&color=0)](https://visitcount.itsvg.in)
-## Hi there 👋
+# Hi there, Niko Hoc here 👋
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NikoHoc&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false)<br/>
