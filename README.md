@@ -20,10 +20,10 @@ Just an undegraduate student who is going on a journey to be a better software d
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/nikohoc/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30" style="margin-right: 10px;"/>
 </a>
 <a href="https://www.instagram.com/niko_hoc/">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" height="30" style="margin-right: 10px;"/>
 </a>
 <a href="mailto:niko.owen88@gmail.com">
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="30" height="30"/>
