@@ -5,9 +5,9 @@ Just an undegraduate student who is going on a journey to be a better software d
 ## 📊 My Stats:
 ![NikoHoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoHoc&show_icons=true&theme=radical)
 <p align="left">
-<a href="https://github.com/NikoHoc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NikoHoc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NikoHoc&layout=compact&theme=algolia"/>
+<a href="https://github.com/nikohoc">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikohoc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikohoc&layout=compact&theme=algolia"/>
 </a>
 </p>
 
