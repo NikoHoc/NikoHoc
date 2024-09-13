@@ -3,10 +3,9 @@
 Just an undegraduate student who is going on a journey to be a better software developer. Having a high passion to learn and create something new.
 
 ## 📊 My Stats:
-<p align="left">
-![](https://github-readme-stats.vercel.app/api?username=NikoHoc&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
+![NikoHoc's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikoHoc&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikoHoc&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</p>
+
 
 ## 💻 What i use:
 ### Web Development:
